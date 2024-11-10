@@ -17,7 +17,7 @@ function AboutPage() {
           About Me
         </h1>
         <p className=" pl-4 text-slate-50 text-lg font-thin">
-          Asalam-o-Alaikum, I'm Khadija Faisal a junior front-end developer and
+          Asalam-o-Alaikum, I&rsquo;m Khadija Faisal a junior front-end developer and
           graphic designer. i create engaging, user-friendly websites with
           clean, responsive designs with HTML, CSS, TypeScript, Next.js and a
           Strong Desgin Sense, I blend Functionality and creativity to deliver

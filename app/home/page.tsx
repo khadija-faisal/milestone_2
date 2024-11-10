@@ -7,7 +7,7 @@ function HomePage() {
           <div className="bg-gradient-to-r from-fuchsia-950 to-orange-200  w-10 h-10 rounded-full animate-spin-slow "></div>
           <h1 className="md:pl-9 text-4xl sm:text-5xl text-slate-50 font-bold font-serif">
             {" "}
-            it's Khadija
+            it&rsquo;s Khadija
           </h1>
           <h2 className=" md:pl-9 text-[20px]  text-slate-50 font-semibold ">
             Front-end Developer / Graphic Deigner
