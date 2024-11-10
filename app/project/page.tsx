@@ -36,6 +36,7 @@ function ProjectPage() {
                 {" "}
                 Click Here Go
               </Link>
+              <Image src={"/arrow.svg"} alt="icon" width={15} height={15} />
             </div>
           </div>
         </div>
