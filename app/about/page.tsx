@@ -21,7 +21,7 @@ function AboutPage() {
           graphic designer. i create engaging, user-friendly websites with
           clean, responsive designs with HTML, CSS, TypeScript, Next.js and a
           Strong Desgin Sense, I blend Functionality and creativity to deliver
-          visually apealing digital experience. I'm eagar to learn and Take on
+          visually apealing digital experience. I&rsquo;m eagar to learn and Take on
           new challenges in the world of web and AI development and Designs. !
         </p>
         <div className=" ml-3 mt-3 w-7 h-7 border border-  animate-spin-slow  "></div>
